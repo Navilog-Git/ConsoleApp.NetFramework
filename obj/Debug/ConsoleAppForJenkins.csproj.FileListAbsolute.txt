@@ -1,0 +1,7 @@
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\bin\Debug\ConsoleAppForJenkins.exe.config
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\bin\Debug\ConsoleAppForJenkins.exe
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\bin\Debug\ConsoleAppForJenkins.pdb
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\obj\Debug\ConsoleAppForJenkins.csprojAssemblyReference.cache
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\obj\Debug\ConsoleAppForJenkins.csproj.CoreCompileInputs.cache
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\obj\Debug\ConsoleAppForJenkins.exe
+C:\Users\navilog\source\repos\ConsoleAppForJenkins\obj\Debug\ConsoleAppForJenkins.pdb
